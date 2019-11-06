@@ -1,0 +1,78 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/AidanRoth/Documents/CS 315 - Programming III/Labs:Projects/cs315Lab01_phase1/TagParser.cpp
+TagParser.h
+/Users/AidanRoth/Documents/CS 315 - Programming III/Labs:Projects/cs315Lab01_phase1/TagParser.h
+iostream
+-
+
+/Users/AidanRoth/Documents/CS 315 - Programming III/Labs:Projects/cs315Lab01_phase1/TagParser.h
+Token.hpp
+/Users/AidanRoth/Documents/CS 315 - Programming III/Labs:Projects/cs315Lab01_phase1/Token.hpp
+Tokenizer.hpp
+/Users/AidanRoth/Documents/CS 315 - Programming III/Labs:Projects/cs315Lab01_phase1/Tokenizer.hpp
+TraversableStack.h
+/Users/AidanRoth/Documents/CS 315 - Programming III/Labs:Projects/cs315Lab01_phase1/TraversableStack.h
+map
+-
+vector
+-
+
+/Users/AidanRoth/Documents/CS 315 - Programming III/Labs:Projects/cs315Lab01_phase1/Token.cpp
+iostream
+-
+iomanip
+-
+Token.hpp
+/Users/AidanRoth/Documents/CS 315 - Programming III/Labs:Projects/cs315Lab01_phase1/Token.hpp
+
+/Users/AidanRoth/Documents/CS 315 - Programming III/Labs:Projects/cs315Lab01_phase1/Token.hpp
+string
+-
+
+/Users/AidanRoth/Documents/CS 315 - Programming III/Labs:Projects/cs315Lab01_phase1/Tokenizer.cpp
+iostream
+-
+Tokenizer.hpp
+/Users/AidanRoth/Documents/CS 315 - Programming III/Labs:Projects/cs315Lab01_phase1/Tokenizer.hpp
+
+/Users/AidanRoth/Documents/CS 315 - Programming III/Labs:Projects/cs315Lab01_phase1/Tokenizer.hpp
+string
+-
+fstream
+-
+Token.hpp
+/Users/AidanRoth/Documents/CS 315 - Programming III/Labs:Projects/cs315Lab01_phase1/Token.hpp
+
+/Users/AidanRoth/Documents/CS 315 - Programming III/Labs:Projects/cs315Lab01_phase1/TraversableStack.cpp
+TraversableStack.h
+/Users/AidanRoth/Documents/CS 315 - Programming III/Labs:Projects/cs315Lab01_phase1/TraversableStack.h
+Token.hpp
+/Users/AidanRoth/Documents/CS 315 - Programming III/Labs:Projects/cs315Lab01_phase1/Token.hpp
+vector
+-
+iostream
+-
+
+/Users/AidanRoth/Documents/CS 315 - Programming III/Labs:Projects/cs315Lab01_phase1/TraversableStack.h
+vector
+-
+Token.hpp
+/Users/AidanRoth/Documents/CS 315 - Programming III/Labs:Projects/cs315Lab01_phase1/Token.hpp
+
+/Users/AidanRoth/Documents/CS 315 - Programming III/Labs:Projects/cs315Lab01_phase1/main.cpp
+iostream
+-
+fstream
+-
+Tokenizer.hpp
+/Users/AidanRoth/Documents/CS 315 - Programming III/Labs:Projects/cs315Lab01_phase1/Tokenizer.hpp
+TagParser.h
+/Users/AidanRoth/Documents/CS 315 - Programming III/Labs:Projects/cs315Lab01_phase1/TagParser.h
+

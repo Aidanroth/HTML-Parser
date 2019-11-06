@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="lab01_2" targetName="lab01_2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1166f1eb-381d-40b8-a366-52cdaaf26fd1" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>inputf</find>
+      <find>print</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1Pg7MhrkbwRSEaJnrgmi9xWYx5V" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="ObjectiveC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmake-build-debug" />
+      <recent name="$PROJECT_DIR$/cmake-build-debug/CMakeFiles" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.Build All">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="sampleInput2.html" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab01_2" RUN_TARGET_NAME="lab01_2" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab01_2" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="input.html" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab01_2" TARGET_NAME="lab01_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab01_2" RUN_TARGET_NAME="lab01_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Build All" />
+      <item itemvalue="CMake Application.lab01_2" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1166f1eb-381d-40b8-a366-52cdaaf26fd1" name="Default" comment="" />
+      <created>1534898396183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534898396183</updated>
+      <workItem from="1534898397455" duration="6740000" />
+      <workItem from="1534969145095" duration="3725000" />
+      <workItem from="1535034838631" duration="316000" />
+      <workItem from="1566283844549" duration="756000" />
+      <workItem from="1566494809506" duration="4324000" />
+      <workItem from="1566843772610" duration="1345000" />
+      <workItem from="1566932872465" duration="7699000" />
+      <workItem from="1567028532450" duration="7601000" />
+      <workItem from="1567109978550" duration="129000" />
+      <workItem from="1567110133299" duration="210000" />
+      <workItem from="1567110546505" duration="2739000" />
+      <workItem from="1567183290070" duration="500000" />
+      <workItem from="1567185325927" duration="2484000" />
+      <workItem from="1567360287957" duration="3632000" />
+      <workItem from="1567365057566" duration="352000" />
+      <workItem from="1567470068673" duration="221000" />
+      <workItem from="1567630553643" duration="8790000" />
+      <workItem from="1567789174504" duration="147000" />
+      <workItem from="1567977595129" duration="7285000" />
+      <workItem from="1568055718991" duration="7822000" />
+      <workItem from="1568076572608" duration="392000" />
+      <workItem from="1568143310088" duration="7211000" />
+      <workItem from="1568226461959" duration="5578000" />
+      <workItem from="1568246523715" duration="14000" />
+      <workItem from="1568322230814" duration="1429000" />
+      <workItem from="1568346845048" duration="48000" />
+      <workItem from="1568403960731" duration="10544000" />
+      <workItem from="1568571044085" duration="1860000" />
+      <workItem from="1568667921240" duration="126000" />
+      <workItem from="1568668079528" duration="701000" />
+      <workItem from="1568668812481" duration="2422000" />
+      <workItem from="1568675638650" duration="210000" />
+      <workItem from="1568681755627" duration="388000" />
+      <workItem from="1568687807275" duration="675000" />
+      <workItem from="1568692233721" duration="286000" />
+      <workItem from="1568757950847" duration="38000" />
+      <workItem from="1568920410712" duration="26000" />
+      <workItem from="1570485441434" duration="957000" />
+      <workItem from="1571075806892" duration="101000" />
+      <workItem from="1571351777139" duration="449000" />
+      <workItem from="1572895894972" duration="4911000" />
+      <workItem from="1572910696221" duration="3756000" />
+      <workItem from="1572988364735" duration="838000" />
+      <workItem from="1572990352886" duration="20000" />
+      <workItem from="1573072517678" duration="342000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
